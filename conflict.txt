@@ -2,3 +2,4 @@ conflict.txt
 some text
 different text
 
+some text
